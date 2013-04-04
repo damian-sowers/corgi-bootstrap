@@ -7,7 +7,7 @@ See the demo: [http://www.3solarmasses.com/corgi-bootstrap/](http://www.3solarma
 
 Just download the [zip](https://github.com/damian-sowers/corgi-bootstrap/zipball/master) and include corgi.css after bootstrap.css.
 
-![corgi](https://github.com/damian-sowers/boxer-bootstrap/raw/master/img/corgi.png)
+![corgi](https://github.com/damian-sowers/corgi-bootstrap/raw/master/img/corgi.png)
 
 ### License:
 
